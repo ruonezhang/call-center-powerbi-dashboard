@@ -267,7 +267,7 @@ This project demonstrates the following Power BI and data analytics skills:
 
 ### Manager Performance
 
-![Manager Performance](screenshots/erformance20%Manager(team).png)
+![Manager Performance](screenshots/performance_ manager-team.png)
 
 ## Key Takeaway
 
