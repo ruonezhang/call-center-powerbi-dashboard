@@ -259,7 +259,7 @@ This project demonstrates the following Power BI and data analytics skills:
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/Revenue.png)
+![Revenue Analysis](screenshots/Reveue.png)
 
 ### Employee Performance
 
