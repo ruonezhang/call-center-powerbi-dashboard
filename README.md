@@ -255,19 +255,19 @@ This project demonstrates the following Power BI and data analytics skills:
 
 ### Call Center Overview
 
-![Call Center Overview](screenshots/call-center-overview.png)
+![Call Center Overview](screenshots/Call Center Overview.png)
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/revenue-analysis.png)
+![Revenue Analysis](screenshots/Revenue.png)
 
 ### Employee Performance
 
-![Employee Performance](screenshots/employee-performance.png)
+![Employee Performance](screenshots/Performance Employee.png)
 
 ### Manager Performance
 
-![Manager Performance](screenshots/manager-performance.png)
+![Manager Performance](screenshots/Performance Manager(team).png)
 
 ## Key Takeaway
 
