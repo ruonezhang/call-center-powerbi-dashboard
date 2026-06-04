@@ -234,7 +234,7 @@ This project demonstrates the following Power BI and data analytics skills:
 ## Repository Structure
 
 ```text
-.
+call-center-powerbi-dashboard
 ├── call_center.pbix
 ├── README.md
 ├── data/
@@ -245,10 +245,12 @@ This project demonstrates the following Power BI and data analytics skills:
 │   ├── Call Charges.xlsx
 │   └── Lookup+Tables.xlsx
 └── screenshots/
-    ├── call-center-overview.png
-    ├── revenue-analysis.png
-    ├── employee-performance.png
-    └── manager-performance.png
+├── ├── call-center-overview.png
+├── ├── revenue-analysis.png
+├── ├── employee-performance.png
+├── └── manager-performance.png
+└── powerbi/
+    └── call_center.pbix
 ```
 
 ## Screenshots
@@ -259,7 +261,7 @@ This project demonstrates the following Power BI and data analytics skills:
 
 ### Revenue Analysis
 
-![Revenue Analysis](screenshots/Reveue.png)
+![Revenue Analysis](screenshots/revenue.png)
 
 ### Employee Performance
 
